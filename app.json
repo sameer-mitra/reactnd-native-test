@@ -1,0 +1,12 @@
+{
+  "name": "reactnd-native-test",
+  "displayName": "reactnd-native-test",
+  "expo": {
+    "name": "reactnd-native-test",
+    "slug": "reactnd-native-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
